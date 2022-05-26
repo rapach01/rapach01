@@ -1,4 +1,4 @@
-#Meu nome é Arthur e sou Estudante de Programação!
+Meu nome é Arthur e sou Estudante de Programação!
 
 <div align="">
   <a href="https://github.com/rapach01">
