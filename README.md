@@ -6,7 +6,7 @@ Meu nome é Arthur e sou Estudante de Programação!
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapach01&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-  ##Linguagens que estou aprendendo: 
+  <h3>Linguagens que estou aprendendo:</h3> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-Java" height="50" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Arthur-MySQL" height="50" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
@@ -17,7 +17,7 @@ Meu nome é Arthur e sou Estudante de Programação!
 </div>
 
   ##
-  ##Contatos
+  <h3>Contatos</h3>
 <div> 
   <a href="https://instagram.com/_rapach" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:arthurrapach06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
