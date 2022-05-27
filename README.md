@@ -9,7 +9,7 @@
   <h3>Linguagens que uso:</h3> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-Java" height="60" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Arthur-MySQL" height="60" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
+  <img align="center" alt="Arthur-MySQL" height="80" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="Arthur-HTML" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Arthur-Dart" height="50" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg">
   <img align="center" alt="Arthur-Flutter" height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
