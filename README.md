@@ -23,5 +23,5 @@ Meu nome é Arthur e sou Estudante de Programação!
   <a href = "mailto:arthurrapach06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arthur-de-lima-rapach-08461b203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/Hymdell/Hymdell/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rapach01/rapach01/blob/output/github-contribution-grid-snake.svg)
   </div>
