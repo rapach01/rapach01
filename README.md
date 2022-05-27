@@ -6,14 +6,14 @@ Meu nome é Arthur e sou Estudante de Programação!
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapach01&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-  <h3>Linguagens que estou aprendendo:</h3> 
+  <h3>Linguagens que uso:</h3> 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Arthur-Java" height="50" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Arthur-MySQL" height="50" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="Arthur-HTML" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Arthur-Dart" height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg">
-  <img align="center" alt="Arthur-Flutter" height="30" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Arthur-C" height="30" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Arthur-Java" height="60" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Arthur-MySQL" height="60" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
+  <img align="center" alt="Arthur-HTML" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Arthur-Dart" height="50" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg">
+  <img align="center" alt="Arthur-Flutter" height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Arthur-C" height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
 
   ##
