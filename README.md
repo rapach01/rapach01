@@ -1,4 +1,4 @@
-<h1>Meu nome é Arthur e sou Estudante de Programação! </h1>
+<h1>I'm Arthur and i'm a developer student!</h1>
 
 <div align="">
   <a href="https://github.com/rapach01">
@@ -6,7 +6,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapach01&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-  <h3>Linguagens que uso:</h3> 
+  <h3>Languages that i'm learning:</h3> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-Java" height="60" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Arthur-MySQL" height="80" width="48" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
@@ -17,7 +17,7 @@
 </div>
 
   ##
-  <h3>Contatos</h3>
+  <h3>Contact me:</h3>
 <div> 
   <a href="https://instagram.com/_rapach" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:arthurrapach06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
