@@ -1,5 +1,7 @@
 <h1>I'm Arthur and i'm a developer student!</h1>
 
+<h2>🔹 Working in personal projects</h2>
+<h2>🔹 Open to new experiences and jobs</h2>
 <div align="">
   <a href="https://github.com/rapach01">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rapach01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
