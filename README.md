@@ -1,4 +1,4 @@
-<h1>I'm Arthur</h1>
+<h1>Hi, I'm Arthur</h1>
 
 <h2>🔹 Working in personal projects</h2>
 <h2>🔹 Open to new experiences and jobs</h2>
