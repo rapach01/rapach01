@@ -16,7 +16,7 @@
   <img align="center" alt="Arthur-HTML" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Arthur-CSS" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="Arthur-Js" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Arthur-NodeJS" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain-wordmark.svg">
+  <img align="center" alt="Arthur-NodeJS" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
 </div>
 
   ##
