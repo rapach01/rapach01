@@ -1,12 +1,12 @@
 <h1>Hi, I'm Arthur</h1>
 
-<h2>🔹 Working in personal projects</h2>
-<h2>🔹 Open to new experiences and jobs</h2>
+<h2>🔹 Working in projects</h2>
+<h2>🔹 Open to jobs</h2>
 <div align="">
   <a href="https://github.com/rapach01">
 </div>
   
-  <h3>Languages that i'm learning:</h3> 
+  <h3>Languages I use:</h3> 
 <div style="display: inline_block"><br>
   <img align="center" height="100" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img align="center" alt="Arthur-MySQL" height="100" width="55" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
