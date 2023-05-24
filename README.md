@@ -4,19 +4,14 @@
 <h2>🔹 Open to new experiences and jobs</h2>
 <div align="">
   <a href="https://github.com/rapach01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rapach01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapach01&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   <h3>Languages that i'm learning:</h3> 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Arthur-Java" height="60" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Arthur-MySQL" height="80" width="48" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
-  <img align="center" alt="Arthur-C" height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Arthur-HTML" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" alt="Arthur-CSS" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg">
-  <img align="center" alt="Arthur-Js" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Arthur-NodeJS" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
+  <img align="center" height="100" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img align="center" alt="Arthur-MySQL" height="100" width="55" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
+  <img align="center" height="100" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Arthur-Js" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 </div>
 
   ##
