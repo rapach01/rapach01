@@ -1,7 +1,6 @@
 <h1>Hi, I'm Arthur</h1>
 
 <h2>🔹 Working in projects</h2>
-<h2>🔹 Open to jobs</h2>
 <div align="">
   <a href="https://github.com/rapach01">
 </div>
