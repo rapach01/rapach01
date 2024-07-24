@@ -1,13 +1,14 @@
 <h1>Olá! Meu nome é Arthur</h1>
 
 <h2>Moro no Rio Grande do Sul</h2>
+<h2>Trabalhando há 1 ano como desenvolvedor web</h2>
 <h2>Graduando em Análise e Desenvolvimento de Sistemas</h2>
 <h2>Fazendo cursos complementares</h2>
 <div align="">
   <a href="https://github.com/rapach01">
 </div>
   
-  <h3>Languages I use:</h3> 
+  <h3>Tecnologias que utilizo:</h3> 
 <div style="display: inline_block"><br>
   <img align="center" height="100" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img align="center" height="100" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
