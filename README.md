@@ -1,6 +1,6 @@
 <h1>Olá! Meu nome é Arthur</h1>
 
-<h2>🔹 Trabalhando há 2 anos como desenvolvedor web</h2>
+<h2>🔹 Trabalhando há 3 anos como desenvolvedor web</h2>
 <h2>🔹 Graduando em Análise e Desenvolvimento de Sistemas</h2>
 <h2>🔹 Fazendo cursos complementares</h2>
 <div align="">
