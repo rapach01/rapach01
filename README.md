@@ -1,26 +1,64 @@
-<h1>Olá! Meu nome é Arthur</h1>
+<div align="center">
 
-<h2>🔹 Trabalhando há 3 anos como desenvolvedor web</h2>
-<h2>🔹 Graduando em Análise e Desenvolvimento de Sistemas</h2>
-<h2>🔹 Fazendo cursos complementares</h2>
-<div align="">
-  <a href="https://github.com/rapach01">
-</div>
-  
-  <h3>Tecnologias que utilizo:</h3> 
-<div style="display: inline_block"><br>
-  <img align="center" height="100" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img align="center" height="100" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" height="100" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Arthur-Js" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+```
+╔══════════════════════════════════════╗
+║         arthur de lima rapach        ║
+║         back-end developer           ║
+║         rio grande do sul, brasil    ║
+╚══════════════════════════════════════╝
+```
+
 </div>
 
-  ##
-  <h3>Contact me:</h3>
-<div> 
-  <a href="https://instagram.com/arthurrapach" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:arthurrapach06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/arthur-de-lima-rapach-08461b203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/rapach01/rapach01/blob/output/github-contribution-grid-snake.svg)
-  </div>
+---
+
+## sobre
+
+Desenvolvedor back-end com **3 anos de experiência** construindo sistemas web robustos.
+Atualmente cursando Análise e Desenvolvimento de Sistemas.
+
+Trabalho principalmente com PHP, MySQL e integrações com APIs externas.
+Gosto de código limpo, sistemas bem estruturados e soluções que funcionam de verdade.
+
+---
+
+## stack
+
+```
+linguagens    →   PHP · JavaScript · HTML · CSS
+banco de dados →  MySQL
+frameworks    →   Bootstrap
+ferramentas   →   Git · CKEditor · PagSeguro API
+```
+
+---
+
+## o que já construí
+
+```
+→ sistema de geração de certificados com CKEditor + variáveis dinâmicas
+→ módulo de pagamentos integrado ao PagSeguro (PIX, cartão, boleto)
+→ criador de atividades para plataforma EAD com auto-save
+→ relatórios gerenciais com filtros dinâmicos
+→ múltiplos CRUDs e formulários complexos com validação
+```
+
+> a maioria dos projetos é profissional e não pode ser publicada.
+> os repositórios aqui são estudos e experimentações pessoais.
+
+---
+
+## contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-de-lima-rapach-08461b203/)
+[![Gmail](https://img.shields.io/badge/Gmail-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:arthurrapach06@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfólio-0a0a0a?style=flat-square&logo=firefox&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/@rapach__-0a0a0a?style=flat-square&logo=x&logoColor=white)](https://twitter.com/rapach_)
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rapach01&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=7fff6e&icon_color=3df0e0&text_color=888888&hide=stars)
+
+</div>
